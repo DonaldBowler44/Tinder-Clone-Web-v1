@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+<b>A Tinder clone application using ReactJs, NodeJs, and Firebase to launch the application. A first version project for further applications.<b>
+  
+<img width="374" alt="Tinder-clone2 home" src="https://user-images.githubusercontent.com/96385571/156901282-a216ca07-540c-49da-bfa0-d07d371ac8e1.png">
+  <b>Homepage<b>
+    Home page is fit to screen for Websites.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="376" alt="Tinder-Clone2 swipe feature" src="https://user-images.githubusercontent.com/96385571/156901288-b82a934d-043b-4419-8ec8-0440b07899cf.png">
+    <b>Swipe Function<b>
+      Able to swipe screen left and right.
 
-## Available Scripts
+<img width="377" alt="Tinder-Clone2 ChatMenu" src="https://user-images.githubusercontent.com/96385571/156901296-5910221d-b4f6-4079-a43b-8d72438f8c71.png">
+      <b>Chat Menu<B>
+        Ability to enter Chat menu and head back using the App icon or arrow.
+        
 
-In the project directory, you can run:
+<img width="379" alt="Tinder-Clone2 chatscreen" src="https://user-images.githubusercontent.com/96385571/156901301-cf278c41-330a-4322-b36d-3f078ac645dc.png">
+        <b>Chat Screen<b>
+          Able to see chat screen and read messages.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="374" alt="Tinder-Clone2 messaging" src="https://user-images.githubusercontent.com/96385571/156901306-6a68401b-3482-434b-981a-14bda825b82c.png">
+          <b>Text Input<b>
+            Front End ability to input text field in chat screen.
