@@ -4,13 +4,13 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-   apiKey: "AIzaSyC7uYHIPW1UsJLJRxafyEohQgOrWQ__lG4",
-    authDomain: "tinder-clone-5f56c.firebaseapp.com",
-    projectId: "tinder-clone-5f56c",
-    storageBucket: "tinder-clone-5f56c.appspot.com",
-    messagingSenderId: "502714978016",
-    appId: "1:502714978016:web:431f05b06d4019bf144a85",
-    measurementId: "G-R6NDJ5FJ50"
+   apiKey: "LOCATEDINPROJECT",
+    authDomain: "LOCATEDINPROJECT",
+    projectId: "LOCATEDINPROJECT",
+    storageBucket: "LOCATEDINPROJECT",
+    messagingSenderId: "LOCATEDINPROJECT",
+    appId: "LOCATEDINPROJECT",
+    measurementId: "LOCATEDINPROJECT"
 };
 
 console.log("connected to firebase!");
@@ -21,16 +21,6 @@ const firebaseApp = firebase.initializeApp(firebaseConfig);
 const database = firebaseApp.firestore();
 
 export default database;
-
-  // const firebaseConfig =initializeApp({
-  //   apiKey: "AIzaSyC7uYHIPW1UsJLJRxafyEohQgOrWQ__lG4",
-  //   authDomain: "tinder-clone-5f56c.firebaseapp.com",
-  //   projectId: "tinder-clone-5f56c",
-  //   storageBucket: "tinder-clone-5f56c.appspot.com",
-  //   messagingSenderId: "502714978016",
-  //   appId: "1:502714978016:web:431f05b06d4019bf144a85",
-  //   measurementId: "G-R6NDJ5FJ50"
-  // });
 
   // const firebaseApp = initializeApp(firebaseConfig);
   // const database = firebaseApp.firestore();
